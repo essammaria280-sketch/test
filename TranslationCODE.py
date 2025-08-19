@@ -1,6 +1,6 @@
 
 from typing import Literal, Tuple, List
-
+cgdgdgdgfgf
 # Standard RNA codon table → one-letter amino acids
 CODON_TO_AA = {
     # Phe / Leu
